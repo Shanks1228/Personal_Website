@@ -1,0 +1,22 @@
+body {
+    background-color: rgba(200, 200, 128, .5);
+  }
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width:5px;
+    width:5%;
+  }
+h3 {
+    color: rebeccapurple;
+  }
+h1 {
+      color: rebeccapurple;
+    }
+img:hover{
+  background-color: grey;
+}
+.circular{
+  border-radius: 100%
+}
